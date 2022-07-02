@@ -1,3 +1,16 @@
+French : 
+Au début, vous devez installer les bibliothèques.
+
+Ce fichier est une sorte de mauvais virus qui supprime vos types de fichiers .dll. Il a écrit avec Python.
+
+JUSTE L'EXÉCUTER. MAIS PAS POUR VOUS !! ❌ ❌
+
+
+
+
+
+
+English : 
 At first you need to install the libraries.
 
 
